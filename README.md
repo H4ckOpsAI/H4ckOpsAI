@@ -58,9 +58,3 @@ This profile and associated repositories are for **educational and authorized te
 
 
 ---
-
-
-## 📝 How to Use This README
-1. Create a new repository named **`H4ckOpsAI`**.
-2. Add this file as **`README.md`** to that repo.
-3. Pin your best repos and keep this file updated with links, demos, and badges.
