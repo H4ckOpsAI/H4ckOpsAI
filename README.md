@@ -1,4 +1,5 @@
 # 💀 H4ckOpsAI
+
 Cybersecurity Enthusiast | Penetration Tester | AI & DevOps Explorer
 Welcome to **H4ckOpsAI** — a unique fusion of **Cybersecurity**, **AI/ML**, and **DevOps-inspired automation**. This repository reflects my journey as a **penetration tester**, **AI tinkerer**, and **security researcher**, blending human intuition with AI-powered systems to explore and secure the digital world.
 
@@ -132,8 +133,8 @@ Combining real-time APIs with AI planning via LangGraph.
 ## 📫 Connect With Me
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/avinash312006)
-* 🐦 [Twitter/X](https://twitter.com)
-* 📧 Reach me at: **[your-email@example.com](mailto:avinashraja31032006@gmail.com)**
+* 📸 [Instagram](https://instagram.com/i_avinash31)
+* 📧 Reach me at: **[avinashraja31032006@gmail.com](mailto:avinashraja31032006@gmail.com)**
 
 ---
 
