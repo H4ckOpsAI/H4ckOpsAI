@@ -1,9 +1,6 @@
 <h1 align="center">👾 H4ckOpsAI</h1>
 
 
-> 📌 Pin your top repos on your profile and mirror their names here for consistency/SEO.
-
-
 ---
 
 
