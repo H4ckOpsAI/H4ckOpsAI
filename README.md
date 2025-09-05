@@ -29,17 +29,6 @@
 ---
 
 
-## 🧪 Quick Demos
-- `curl -sL https://raw.githubusercontent.com/H4ckOpsAI/AI-Pentest-Toolkit/main/install.sh | bash` *(example installer)*
-- `docker run --rm -it ghcr.io/h4ckopsai/redops-toolkit:latest` *(example container)*
-
-
-> Replace with real commands once your registries are live (GitHub Packages/ghcr.io).
-
-
----
-
-
 ## 🤝 Connect
 - 🌐 **Website/Blog:** https://h4ckopsai.dev *(recommended to reserve)*
 - 💼 **LinkedIn:** https://linkedin.com/in/H4ckOpsAI
