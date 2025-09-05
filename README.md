@@ -1,6 +1,9 @@
 # 💀 H4ckOpsAI
 
 Cybersecurity Enthusiast | Penetration Tester | AI & DevOps Explorer
+
+---
+
 Welcome to **H4ckOpsAI** — a unique fusion of **Cybersecurity**, **AI/ML**, and **DevOps-inspired automation**. This repository reflects my journey as a **penetration tester**, **AI tinkerer**, and **security researcher**, blending human intuition with AI-powered systems to explore and secure the digital world.
 
 ---
