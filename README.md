@@ -1,6 +1,9 @@
 # 💀 H4ckOpsAI
-**Cybersecurity Enthusiast | Penetration Tester | AI & DevOps Explorer**
 
+**Cybersecurity Enthusiast | Penetration Tester | AI & DevOps Explorer**
+👨‍💻 H4ckOpsAI
+
+Cybersecurity Enthusiast | Penetration Tester | AI & DevOps Explorer
 ---
 
 Welcome to **H4ckOpsAI** — a unique fusion of **Cybersecurity**, **AI/ML**, and **DevOps-inspired automation**. This repository reflects my journey as a **penetration tester**, **AI tinkerer**, and **security researcher**, blending human intuition with AI-powered systems to explore and secure the digital world.
@@ -51,7 +54,7 @@ Welcome to **H4ckOpsAI** — a unique fusion of **Cybersecurity**, **AI/ML**, an
 
 ## 🚀 Projects & Work
 
-### 🔍 [AutoRecon-Py](LINK_HERE)
+### 🔍 [AutoRecon-Py](https://github.com/H4ckOpsAI/AutoRecon-Py)
 
 A beginner-friendly Python-based automated reconnaissance tool for penetration testing and security assessments. AutoRecon-Py performs comprehensive reconnaissance including subdomain enumeration, port scanning, technology stack detection, and website screenshots.
 
@@ -89,15 +92,15 @@ Advanced options include custom threads, quick scan mode, skipping modules, and 
 
 An AI system to augment recon, exploit discovery, and report generation.
 
-### [Bug Bounty Reports & Writeups](LINK_HERE)
+### [Bug Bounty Reports & Writeups](https://drive.google.com/file/d/1IIrr1lvWakMp_yKAzboVCYr9mjJfe3ud/view?usp=sharing)
 
 Real-world vulnerability assessments with detailed findings.
 
-### [Blumo Auth & Session Module](LINK_HERE)
+### [Blumo Auth & Session Module](https://github.com/H4ckOpsAI/Blumo-Email-Campaign-Backend)
 
 Secure authentication system using **Keycloak + TypeScript + Express**.
 
-### [Travel Planner AI](LINK_HERE)
+### [Travel Planner AI Agent]([LINK_HERE](https://github.com/H4ckOpsAI/Internship/tree/main/AI-ML-Internship-Eminds/Travel_Planner_Agent_using_LangGraph))
 
 Combining real-time APIs with AI planning via LangGraph.
 
