@@ -1,8 +1,5 @@
 # 💀 H4ckOpsAI
 
-**Cybersecurity Enthusiast | Penetration Tester | AI & DevOps Explorer**
-👨‍💻 H4ckOpsAI
-
 Cybersecurity Enthusiast | Penetration Tester | AI & DevOps Explorer
 ---
 
