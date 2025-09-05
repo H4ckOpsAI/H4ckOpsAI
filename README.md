@@ -374,13 +374,13 @@ Capabilities:
 ### 🚨 **FINAL MESSAGE**
 
 ```
-⚠️  WARNING: This profile contains advanced cybersecurity content
-🔐  All tools and techniques are for authorized testing only
-🤖  AI integration is the future of cybersecurity
-🎯  Remember: "Hack to Secure, Automate to Scale"
+⚠️  DISCLAIMER: All projects are for educational purposes only
+🔐  Learning ethical hacking and authorized testing practices
+🤖  Exploring AI integration in cybersecurity responsibly
+🎯  Remember: "Learn to Secure, Build to Scale"
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+H4ckOpsAI;Stay+curious%2C+stay+secure;The+Matrix+has+you..." alt="Footer Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+H4ckOpsAI;Learning+every+day%2C+growing+every+project;The+journey+continues..." alt="Footer Typing" />
 
 **⭐ If you found my work interesting, consider starring my repositories!**
 
