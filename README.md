@@ -1,11 +1,14 @@
 # 💀 H4ckOpsAI
 
-🛡️ Cybersecurity Enthusiast | Penetration Tester | AI & DevOps Explorer
+**Cybersecurity Enthusiast | Penetration Tester | AI & DevOps Explorer**
+
 ---
 
-Hey there! I'm Avinash (H4ckOpsAI) — a passionate cybersecurity enthusiast specializing in penetration testing, vulnerability assessments, and ethical hacking. On my red team journey, I dive deep into AI-driven security tools, DevOps practices, and automation workflows, constantly seeking ways to blend human intuition with cutting-edge technology.
+👋 Hey there! I'm **Avinash (H4ckOpsAI)** – a passionate cybersecurity enthusiast specializing in **penetration testing, vulnerability assessments, and red team operations**. Alongside my offensive security journey, I explore **AI-driven security tools, DevOps practices, and automation workflows**.
 
-H4ckOpsAI isn’t just a name — it’s a mindset: a unique fusion of Cybersecurity, AI/ML, and DevOps-inspired automation. This space reflects my mission to hack to secure and automate to scale 🚀, while building tools, systems, and research that push the boundaries of digital defense.
+💡 I believe in the mindset: **Hack to Secure. Automate to Scale. 🚀**
+
+Welcome to **H4ckOpsAI** — a unique fusion of **Cybersecurity**, **AI/ML**, and **DevOps-inspired automation**. This repository reflects my journey as a **penetration tester**, **AI tinkerer**, and **security researcher**, blending human intuition with AI-powered systems to explore and secure the digital world.
 
 ---
 
@@ -27,6 +30,7 @@ H4ckOpsAI isn’t just a name — it’s a mindset: a unique fusion of Cybersecu
 * Exploit Development & Payload Crafting
 * Red Teaming & Social Engineering
 * Bug Bounty Research & Reporting
+* OSCP & Advanced Pentest Prep
 
 ### 🛡️ Defensive Security
 
@@ -34,13 +38,14 @@ H4ckOpsAI isn’t just a name — it’s a mindset: a unique fusion of Cybersecu
 * SIEM/SOC operations & log analysis
 * Secure Coding Practices
 * Vulnerability Management
+* Blue Team vs. Red Team Simulations
 
 ### 🤖 AI & Automation
 
 * Building **RAG-based AI assistants** for cybersecurity
 * Automating recon, enumeration, and exploit validation
 * Adversarial ML — studying how AI can be tricked & secured
-* Integrating **AI pipelines with tools like LangChain, Hugging Face, and Groq**
+* Integrating **AI pipelines with LangChain, Hugging Face, Groq, and PyTorch**
 
 ### ⚙️ DevOps & Systems
 
@@ -48,6 +53,7 @@ H4ckOpsAI isn’t just a name — it’s a mindset: a unique fusion of Cybersecu
 * Docker & Container Security
 * CI/CD for security tools
 * Cloud Security (AWS, GCP basics)
+* Identity & Access Management (**Keycloak**)
 
 ---
 
@@ -87,23 +93,31 @@ Advanced options include custom threads, quick scan mode, skipping modules, and 
 
 ---
 
-### [RAG-Powered Pentest Assistant](LINK_HERE)
+### 🤖 [RAG-Powered Pentest Assistant](LINK_HERE)
 
-An AI system to augment recon, exploit discovery, and report generation.
+An AI-powered assistant designed to augment penetration testers by automating **reconnaissance, exploit discovery, and report generation** using **LangChain + Hugging Face + Groq + ChromaDB**.
 
-### [Bug Bounty Reports & Writeups](https://drive.google.com/file/d/1IIrr1lvWakMp_yKAzboVCYr9mjJfe3ud/view?usp=sharing)
+---
 
-Real-world vulnerability assessments with detailed findings.
+### 📝 [Bug Bounty Reports & Writeups](https://drive.google.com/file/d/1IIrr1lvWakMp_yKAzboVCYr9mjJfe3ud/view?usp=sharing)
 
-### [Blumo Auth & Session Module](https://github.com/H4ckOpsAI/Blumo-Email-Campaign-Backend)
+Real-world **vulnerability assessments** with detailed findings, POCs, and structured reporting methodology.
 
-Secure authentication system using **Keycloak + TypeScript + Express**.
+---
 
-### [Travel Planner AI Agent]([LINK_HERE](https://github.com/H4ckOpsAI/Internship/tree/main/AI-ML-Internship-Eminds/Travel_Planner_Agent_using_LangGraph))
+### 🔐 [Blumo Auth & Session Module](https://github.com/H4ckOpsAI/Blumo-Email-Campaign-Backend)
 
-Combining real-time APIs with AI planning via LangGraph.
+A secure **authentication & session management system** built using **Keycloak + TypeScript + Express**, featuring:
 
-> Each project focuses on **bridging AI and cybersecurity**, while keeping practical real-world applications in mind.
+* JWT-based sessions
+* Role-based access control
+* Backend-only Keycloak integration
+
+---
+
+### 🌍 [Travel Planner AI Agent](https://github.com/H4ckOpsAI/Internship/tree/main/AI-ML-Internship-Eminds/Travel_Planner_Agent_using_LangGraph)
+
+A smart AI-powered **travel planner** combining real-time APIs with **LangGraph**, designed to generate optimized itineraries.
 
 ---
 
@@ -111,26 +125,27 @@ Combining real-time APIs with AI planning via LangGraph.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H4ckOpsAI\&show_icons=true\&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H4ckOpsAI\&layout=compact\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=H4ckOpsAI\&theme=radical\&hide_border=false)
+![Profile Views](https://komarev.com/ghpvc/?username=H4ckOpsAI\&color=blueviolet)
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 **Pentesting & Security**
-
-* Burp Suite, OWASP ZAP, Nmap, Metasploit, Wireshark
+Burp Suite · OWASP ZAP · Nmap · Metasploit · Wireshark · SQLMap · Hydra
 
 **AI/ML**
-
-* Python, Hugging Face, LangChain, Groq, Transformers
+Python · PyTorch · Hugging Face · LangChain · Groq · Transformers
 
 **Dev & Ops**
-
-* React, TypeScript, Express, PostgreSQL, Sequelize, Docker
+React · TypeScript · Express · PostgreSQL · Sequelize · Docker · Keycloak
 
 **Scripting & Automation**
+Bash · PowerShell · Python
 
-* Bash, PowerShell, Python
+**Cloud & Infra**
+AWS · GCP · Docker Compose · Kubernetes (basics)
 
 ---
 
@@ -138,7 +153,7 @@ Combining real-time APIs with AI planning via LangGraph.
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/avinash312006)
 * 📸 [Instagram](https://instagram.com/i_avinash31)
-* 📧 Reach me at: **[avinashraja31032006@gmail.com](mailto:avinashraja31032006@gmail.com)**
+* 📧 Email: **[avinashraja31032006@gmail.com](mailto:avinashraja31032006@gmail.com)**
 
 ---
 
