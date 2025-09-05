@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Typing Animation Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=H4ckOpsAI;Cybersecurity+Expert;Penetration+Tester;AI+Security+Researcher;Red+Team+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=H4ckOpsAI;Cybersecurity+Expert;Penetration+Tester; AI+Security+Researcher;Red+Team+Specialist" alt="Typing SVG" />
 
 <!-- 3D Matrix Rain Effect -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome%20to%20the%20Matrix&fontSize=50&fontColor=00FF41&animation=twinkling&fontAlignY=40" width="100%" />
