@@ -1,387 +1,187 @@
-# 💀 H4ckOpsAI
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:1f6feb&text=Avinash%20R%20(H4ckOpsAI)&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20Engineer%20%7C%20Backend%20Developer%20%7C%20AI%20Automation&descAlignY=55&animation=fadeIn)
 
-<div align="center">
+# Hi, I'm Avinash R (H4ckOpsAI)
 
-<!-- Typing Animation Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=H4ckOpsAI;Cybersecurity+Expert;Penetration+Tester;AI+Security+Research;Red+Team+Specialist" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=false&vCenter=true&width=700&lines=Cybersecurity+Engineer;Backend+Software+Developer;AI+Automation)
 
-<!-- 3D Matrix Rain Effect -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome%20to%20the%20Matrix&fontSize=50&fontColor=00FF41&animation=twinkling&fontAlignY=40" width="100%" />
-
-</div>
+Final-year engineering student building secure backend systems, practical cybersecurity tools, and AI-powered automation projects.
 
 ---
 
-<div align="center">
+## About Me
 
-### 🔥 **Elite Cybersecurity Specialist | AI-Powered Red Team Operator | Security Automation Architect**
+I am a final-year **B.Tech Information Technology** student at **Puducherry Technological University** with a **CGPA of 9.1**.
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="500" />
+I focus on building systems that are secure by design and production-oriented.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=%22Hack+to+Secure.+Automate+to+Scale.%22;%22Breaking+systems+to+build+them+stronger%22;%22Where+AI+meets+Offensive+Security%22)](https://git.io/typing-svg)
+I hold the **Certified Ethical Hacker (CEH)** credential and an **Advanced Diploma in Cyber Defence (ADCD)**.
 
-</div>
-
----
-
-<div align="center">
-
-## 🌟 **LIVE HACKING STATS** 
-
-<img src="https://github-profile-trophy.vercel.app/?username=H4ckOpsAI&theme=matrix&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-
-<!-- Real-time stats with glowing effects -->
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0;">
-
-![Penetration Tests](https://img.shields.io/badge/Penetration%20Tests-500%2B-ff0040?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=000000)
-![Bug Bounties](https://img.shields.io/badge/Bug%20Bounties-50%2B-00ff41?style=for-the-badge&logo=bugcrowd&logoColor=white&labelColor=000000)
-![CVEs Found](https://img.shields.io/badge/CVEs%20Found-15%2B-ff6b35?style=for-the-badge&logo=cve&logoColor=white&labelColor=000000)
-![AI Models Trained](https://img.shields.io/badge/AI%20Models-25%2B-9146ff?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000)
-
-</div>
-
-</div>
+My core interests include **Cybersecurity**, **Backend Engineering**, **AI Automation**, **Secure Software Engineering**, **Linux**, and **Penetration Testing**.
 
 ---
 
-## 🎯 **MISSION CONTROL**
+## Current Focus
 
-<div align="center">
-
-```ascii
-    ██╗  ██╗██╗  ██╗ ██████╗██╗  ██╗ ██████╗ ██████╗ ███████╗ █████╗ ██╗
-    ██║  ██║██║  ██║██╔════╝██║ ██╔╝██╔═══██╗██╔══██╗██╔════╝██╔══██╗██║
-    ███████║███████║██║     █████╔╝ ██║   ██║██████╔╝███████╗███████║██║
-    ██╔══██║╚════██║██║     ██╔═██╗ ██║   ██║██╔═══╝ ╚════██║██╔══██║██║
-    ██║  ██║     ██║╚██████╗██║  ██╗╚██████╔╝██║     ███████║██║  ██║██║
-    ╚═╝  ╚═╝     ╚═╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝
-                           [ A I   P O W E R E D   S E C U R I T Y ]
-```
-
-</div>
-
-> 🎭 **Welcome to H4ckOpsAI** — Where traditional penetration testing meets cutting-edge AI automation. I don't just find vulnerabilities; I architect intelligent systems that continuously hunt for them.
+- [x] Advanced Penetration Testing
+- [x] DevOps Engineering
+- [x] AI Security
+- [x] Secure Backend Development
+- [x] Linux Internals
 
 ---
 
-## 🕵️‍♂️ **OPERATOR PROFILE**
+## Tech Stack
 
-<div align="left">
+### Programming
 
-<img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/hacker.gif?raw=true" width="400"/>
+![Programming](https://skillicons.dev/icons?i=python,js,java&theme=dark)
 
-```json
-{
-  "codename": "H4ckOpsAI",
-  "real_name": "Avinash",
-  "classification": "ELITE",
-  "specializations": [
-    "🔴 Advanced Penetration Testing",
-    "🤖 AI-Powered Security Automation",
-    "⚡ Red Team Operations",
-    "🛡️ Vulnerability Research",
-    "🧠 Machine Learning Security"
-  ],
-  "status": "ACTIVE",
-  "threat_level": "MAXIMUM",
-  "ai_integration": "CUTTING_EDGE"
-}
-```
+### Backend
 
-</div>
+![Backend](https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark)
 
-<div align="center">
+### Frontend
 
-### 🎯 **Current Focus**
-[![AI Security](https://img.shields.io/badge/AI%20Security-Research-ff0040?style=for-the-badge&logo=openai)](https://github.com/H4ckOpsAI)
-[![Zero-Day](https://img.shields.io/badge/Zero--Day-Hunting-00ff41?style=for-the-badge&logo=hackerone)](https://github.com/H4ckOpsAI)
-[![Automation](https://img.shields.io/badge/Security-Automation-9146ff?style=for-the-badge&logo=github-actions)](https://github.com/H4ckOpsAI)
+![Frontend](https://skillicons.dev/icons?i=react&theme=dark)
 
-</div>
+### Databases
 
----
+![Databases](https://skillicons.dev/icons?i=postgres,mongodb&theme=dark)
 
-## ⚔️ **ARSENAL & CAPABILITIES**
+### Cybersecurity
 
-<div align="center">
+![Cybersecurity](https://skillicons.dev/icons?i=linux&theme=dark)
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,docker,kubernetes,aws,linux,bash,postgresql,mongodb,redis,jenkins,grafana&theme=dark" />
+### AI
 
-</div>
+![AI](https://skillicons.dev/icons?i=huggingface&theme=dark)
 
-<div align="center">
+- LangChain
+- LangGraph
+- Groq
 
-### 🔴 **OFFENSIVE OPERATIONS**
-</div>
+### DevOps
 
-<details>
-<summary><b>🎯 Penetration Testing Arsenal</b></summary>
+![DevOps](https://skillicons.dev/icons?i=docker,githubactions,git&theme=dark)
 
-```yaml
-Web Application Security:
-  - Advanced OWASP Testing Methodology
-  - API Security Assessment (REST/GraphQL/gRPC)
-  - Client-Side Attack Vectors
-  - Business Logic Vulnerability Research
+### Data
 
-Network Penetration Testing:
-  - Internal Network Compromises
-  - Active Directory Exploitation
-  - Lateral Movement Techniques
-  - Privilege Escalation Mastery
-
-Mobile Security:
-  - iOS/Android Application Testing
-  - Runtime Application Self-Protection Bypass
-  - Mobile Device Management Exploitation
-```
-
-</details>
-
-<details>
-<summary><b>🚀 Exploit Development</b></summary>
-
-```python
-class ExploitDeveloper:
-    def __init__(self):
-        self.languages = ["C", "C++", "Python", "Assembly", "JavaScript"]
-        self.techniques = [
-            "Buffer Overflow Exploitation",
-            "Return-Oriented Programming (ROP)",
-            "Heap Spray Techniques",
-            "Use-After-Free Exploitation",
-            "Format String Vulnerabilities"
-        ]
-    
-    def craft_payload(self, target):
-        return f"Custom exploit for {target} ready for deployment"
-```
-
-</details>
-
-<div align="center">
-
-### 🤖 **AI-POWERED SECURITY**
-</div>
-
-<details>
-<summary><b>🧠 Machine Learning Security Research</b></summary>
-
-```yaml
-Adversarial Machine Learning:
-  - Model Poisoning Attacks
-  - Evasion Technique Development
-  - Privacy Attack Research (MIA, PIA)
-  - Federated Learning Security
-
-AI-Powered Automation:
-  - Intelligent Vulnerability Scanners
-  - Automated Exploit Generation
-  - Smart Payload Crafting
-  - Behavioral Analysis Systems
-
-Technologies:
-  - TensorFlow/PyTorch Security
-  - Hugging Face Model Exploitation
-  - LangChain Security Integrations
-  - RAG System Vulnerabilities
-```
-
-</details>
-
-<details>
-<summary><b>🤖 Security Automation Stack</b></summary>
-
-```yaml
-Core Technologies:
-  - LangChain: Advanced AI Workflows
-  - Groq: High-Speed Inference
-  - ChromaDB: Vector Database Security
-  - Hugging Face: Model Fine-tuning
-
-Custom AI Agents:
-  - Reconnaissance Automation
-  - Vulnerability Assessment Bots
-  - Report Generation Systems
-  - Threat Intelligence Gathering
-```
-
-</details>
+- SQL
 
 ---
 
-## 🏆 **ELITE PROJECTS SHOWCASE**
+## Featured Projects
 
-<div align="center">
+### 1) AI Linux Investigator
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=H4ckOpsAI&repo=AutoRecon-Py&theme=chartreuse-dark&hide_border=true&icon_color=00FF41" />
+[![AI Linux Investigator](https://github-readme-stats.vercel.app/api/pin/?username=H4ckOpsAI&repo=ai-linux-investigator&theme=github_dark&hide_border=true)](https://github.com/H4ckOpsAI/ai-linux-investigator)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=H4ckOpsAI&repo=Blumo-Email-Campaign-Backend&theme=chartreuse-dark&hide_border=true&icon_color=00FF41" />
+AI-assisted Linux forensics and security investigation platform with practical attack simulation and secure workflow design.
 
-</div>
+**Technologies:** FastAPI, React, Docker, Python, JavaScript, Groq
 
-### 🔥 **Featured Security Tools**
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🔍 **AutoRecon-Py** 
-*AI-Enhanced Reconnaissance Platform*
-
-```yaml
-Status: ACTIVE DEVELOPMENT
-Threat Level: HIGH
-AI Integration: YES
-
-Features:
-  ✅ Intelligent Subdomain Discovery
-  ✅ Multi-threaded Port Scanning
-  ✅ Technology Stack Fingerprinting  
-  ✅ Automated Screenshot Capture
-  ✅ ML-Powered Result Analysis
-  ✅ Custom Report Generation
-```
-
-**Installation:**
-```bash
-git clone https://github.com/H4ckOpsAI/AutoRecon-Py.git
-cd AutoRecon-Py && pip3 install -r requirements.txt
-python3 main.py --target victim.com --ai-enhanced
-```
-
-</td>
-<td width="50%">
-
-#### 🤖 **RAG-Powered Pentest Assistant**
-*AI Security Research Platform*
-
-```yaml
-Status: CLASSIFIED
-Threat Level: MAXIMUM
-AI Integration: CUTTING-EDGE
-
-Capabilities:
-  🧠 Intelligent Vulnerability Analysis
-  ⚡ Automated Exploit Suggestions
-  📊 Real-time Threat Intelligence
-  🎯 Custom Payload Generation
-  📝 Advanced Report Automation
-  🔍 Zero-Day Discovery Assistance
-```
-
-**Stack:**
-- LangChain + Groq + ChromaDB
-- Advanced RAG Architecture
-- Real-time API Integration
-
-</td>
-</tr>
-</table>
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-1f6feb?style=flat&logo=github&logoColor=white)](https://github.com/H4ckOpsAI/ai-linux-investigator)
 
 ---
 
-## 📊 **PERFORMANCE METRICS**
+### 2) AutoRecon-Py
 
-<div align="center">
+[![AutoRecon-Py](https://github-readme-stats.vercel.app/api/pin/?username=H4ckOpsAI&repo=AutoRecon-Py&theme=github_dark&hide_border=true)](https://github.com/H4ckOpsAI/AutoRecon-Py)
 
-<img src="https://github-readme-stats.vercel.app/api?username=H4ckOpsAI&show_icons=true&theme=chartreuse-dark&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=ffffff&bg_color=0d1117" height="180" />
+Python-based reconnaissance automation tool for structured security assessments and faster information gathering.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4ckOpsAI&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF41&text_color=ffffff&bg_color=0d1117" height="180" />
+**Technologies:** Python, Linux, Security Tooling
 
-<img src="https://streak-stats.demolab.com?user=H4ckOpsAI&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=ff0040&currStreakLabel=ffffff" />
-
-</div>
-
-<div align="center">
-
-### 🔥 **ACTIVITY HEATMAP**
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=H4ckOpsAI&theme=chartreuse_dark" />
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-1f6feb?style=flat&logo=github&logoColor=white)](https://github.com/H4ckOpsAI/AutoRecon-Py)
 
 ---
 
-## 🛡️ **SECURITY CERTIFICATIONS & ACHIEVEMENTS**
+### 3) Blumo
 
-<div align="center">
+[![Blumo](https://github-readme-stats.vercel.app/api/pin/?username=H4ckOpsAI&repo=Blumo-Email-Campaign-Backend&theme=github_dark&hide_border=true)](https://github.com/H4ckOpsAI/Blumo-Email-Campaign-Backend)
 
-![OSCP](https://img.shields.io/badge/OSCP-In%20Progress-ff0040?style=for-the-badge&logo=kalilinux&logoColor=white)
-![CEH](https://img.shields.io/badge/CEH-Certified-00ff41?style=for-the-badge&logo=eccouncil&logoColor=white)
-![CISSP](https://img.shields.io/badge/CISSP-Studying-9146ff?style=for-the-badge&logo=isc2&logoColor=white)
+Backend system for an email campaign platform with authentication-focused architecture and modular API design.
 
-### 🏅 **Recent Achievements**
+**Technologies:** Node.js, Express.js, MongoDB, TypeScript
 
-| Achievement | Status | Impact |
-|-------------|---------|--------|
-| 🎯 Bug Bounty Hunter | ⚡ ACTIVE | $15K+ Earned |
-| 🔓 CVE Researcher | 🔥 15+ CVEs | Critical Impact |
-| 🤖 AI Security Pioneer | 🚀 Cutting-Edge | Industry Recognition |
-| 📚 Security Mentor | 💡 500+ Students | Knowledge Transfer |
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-1f6feb?style=flat&logo=github&logoColor=white)](https://github.com/H4ckOpsAI/Blumo-Email-Campaign-Backend)
 
 ---
 
-## 🌐 **NEURAL NETWORK - CONNECT WITH THE MATRIX**
+### 4) RAG-Based AI Question Answering Systems
 
-<div align="center">
+[![RAG-Based QA](https://github-readme-stats.vercel.app/api/pin/?username=H4ckOpsAI&repo=RAG-Basics&theme=github_dark&hide_border=true)](https://github.com/H4ckOpsAI/RAG-Basics)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%" />
+Retrieval-Augmented Generation experiments for practical question-answering workflows and AI application learning.
 
-### 📡 **COMMUNICATION CHANNELS**
+**Technologies:** Python, LangChain, LangGraph, Hugging Face
 
-<div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0;">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/avinash312006)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/i_avinash31)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:avinashraja31032006@gmail.com)
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=000000)](https://hackerone.com/H4ckOpsAI)
-
-</div>
-
-### 💼 **Professional Portfolio**
-
-[![Bug Bounty Reports](https://img.shields.io/badge/Bug%20Bounty%20Reports-View%20Portfolio-ff0040?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1_kXQW5dcmufoLq1NrjDxkNsSzhfRvWyp/view?usp=sharing)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,2,30&height=4" width="100%" />
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-1f6feb?style=flat&logo=github&logoColor=white)](https://github.com/H4ckOpsAI/RAG-Basics)
 
 ---
 
-<div align="center">
+## Experience
 
-## ⚡ **SYSTEM STATS**
+### Mitra AI — Cybersecurity and Backend Intern
 
-![Profile Views](https://komarev.com/ghpvc/?username=H4ckOpsAI&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/H4ckOpsAI?style=for-the-badge&logo=github&color=00FF41&labelColor=000000)
-![Stars](https://img.shields.io/github/stars/H4ckOpsAI?style=for-the-badge&logo=github&color=ff6b35&labelColor=000000)
+At Mitra AI, I worked on security-oriented backend tasks, including API reliability, secure coding practices, and automation support for internal engineering workflows. The internship strengthened my ability to connect cybersecurity thinking with practical software delivery.
 
-### 🎵 **Currently Hacking To**
+### Enterprise Minds — AI/ML and Engineering Intern
 
-[![Spotify](https://novatorem-h4ckopsai.vercel.app/api/spotify)](https://open.spotify.com/user/H4ckOpsAI)
-
-</div>
+At Enterprise Minds, I contributed to AI-focused engineering tasks and project workflows involving Python-based development. I gained hands-on exposure to collaborative software development, model-integrated application design, and production-oriented coding standards.
 
 ---
 
-<div align="center">
+## Certifications
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Stay%20Secure%20%7C%20Think%20AI&fontSize=30&fontColor=00FF41&animation=twinkling" width="100%" />
+![CEH](https://img.shields.io/badge/CEH-Certified-1f6feb?style=for-the-badge)
+![ADCD](https://img.shields.io/badge/ADCD-Advanced%20Diploma%20in%20Cyber%20Defence-1f6feb?style=for-the-badge)
+![Honours Diploma](https://img.shields.io/badge/Honours%20Diploma-Full%20Stack%20Development-1f6feb?style=for-the-badge)
+![DevOps with IBM](https://img.shields.io/badge/DevOps%20Engineering-with%20IBM-1f6feb?style=for-the-badge)
+![IBM CI/CD](https://img.shields.io/badge/IBM%20SkillsBuild-CI%2FCD-1f6feb?style=for-the-badge)
 
-### 🚨 **FINAL MESSAGE**
+---
 
-```
-⚠️  DISCLAIMER: All projects are for educational purposes only
-🔐  Learning ethical hacking and authorized testing practices
-🤖  Exploring AI integration in cybersecurity responsibly
-🎯  Remember: "Learn to Secure, Build to Scale"
-```
+## Achievements
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+H4ckOpsAI;Learning+every+day%2C+growing+every+project;The+journey+continues..." alt="Footer Typing" />
+- 🏆 1st Place – TEXUS'26 Bug Bounty
+- 🏆 1st Place – Puduvai Youth Fest CTF
+- 🥉 3rd Place – Bug Bounty
+- 🏅 Finalist – Gyanith 2025
+- 🏅 Top 50 – Anna University Hackathon
 
-**⭐ If you found my work interesting, consider starring my repositories!**
+---
 
-</div>
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H4ckOpsAI&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H4ckOpsAI&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=H4ckOpsAI&theme=github-dark-blue&hide_border=true)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=H4ckOpsAI&theme=github-dark&hide_border=true)
+
+---
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-H4ckOpsAI-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/H4ckOpsAI)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Avinash%20R-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash312006)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/H4ckOpsAI/avinash-tech-folio)
+
+[![Email](https://img.shields.io/badge/Email-Contact-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avinashraja31032006@gmail.com)
+
+[![Resume](https://img.shields.io/badge/Resume-View-1f6feb?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1_kXQW5dcmufoLq1NrjDxkNsSzhfRvWyp/view?usp=sharing)
+
+---
+
+## Footer
+
+Thanks for visiting.
+
+Always learning.
+
+Always building.
