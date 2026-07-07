@@ -170,11 +170,11 @@ At Enterprise Minds, I contributed to AI-focused engineering tasks and project w
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Avinash%20R-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash312006)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/H4ckOpsAI/avinash-tech-folio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/H4ckOpsAI/H4ckOpsAI-Portfolio-Avinash-R)
 
 [![Email](https://img.shields.io/badge/Email-Contact-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avinashraja31032006@gmail.com)
 
-[![Resume](https://img.shields.io/badge/Resume-View-1f6feb?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1_kXQW5dcmufoLq1NrjDxkNsSzhfRvWyp/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View-1f6feb?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/17hVr_a8gTlsZ188W5DuZ7lDXzhs8eXzN/edit?usp=sharing&ouid=117569897110154713016&rtpof=true&sd=true)
 
 ---
 
@@ -184,4 +184,4 @@ Thanks for visiting.
 
 Always learning.
 
-Always building..
+Always building.
