@@ -1,8 +1,8 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:1f6feb&text=Avinash%20R%20(H4ckOpsAI)&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20Engineer%20%7C%20Backend%20Developer%20%7C%20AI%20Automation&descAlignY=55&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:1f6feb&text=Avinash%20R%20(H4ckOpsAI)&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Automation&descAlignY=55&animation=fadeIn)
 
 # Hi, I'm Avinash R (H4ckOpsAI)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=false&vCenter=true&width=700&lines=Cybersecurity+Engineer;Backend+Software+Developer;AI+Automation)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=false&vCenter=true&width=700&lines=Cybersecurity+Engineer;Full+-Stack+Developer;AI+Automation)
 
 Final-year engineering student building secure backend systems, practical cybersecurity tools, and AI-powered automation projects.
 
